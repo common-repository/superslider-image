@@ -1,0 +1,260 @@
+# Copyright (C) 2012 SuperSlider-Image
+# This file is distributed under the same license as the SuperSlider-Image package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SuperSlider-Image 1.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/superslider-image\n"
+"POT-Creation-Date: 2012-11-22 00:52:44+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-11-21 19:54-0500\n"
+"Last-Translator: Daiv Mowbray <daiv@daivmowbray.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_EN\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+
+#: admin/superslider-image-ui.php:25
+msgid "ACCESS DENIED: Your don't have permission to do this."
+msgstr ""
+
+#: admin/superslider-image-ui.php:49
+msgid "SuperSlider-Image Default Options reloaded."
+msgstr ""
+
+#: admin/superslider-image-ui.php:56
+msgid "SuperSlider-Image Options saved."
+msgstr ""
+
+#: admin/superslider-image-ui.php:160
+msgid "Shortcode"
+msgstr ""
+
+#: admin/superslider-image-ui.php:161
+msgid "Links"
+msgstr ""
+
+#: admin/superslider-image-ui.php:162
+msgid "Random"
+msgstr ""
+
+#: admin/superslider-image-ui.php:163
+msgid "Display"
+msgstr ""
+
+#: admin/superslider-image-ui.php:164
+msgid "Shortcode Info"
+msgstr ""
+
+#: admin/superslider-image-ui.php:172
+msgid "Image Options"
+msgstr ""
+
+#: admin/superslider-image-ui.php:178
+msgid ""
+"New posts will have the [image] shortcode added to the text editor "
+"automatically."
+msgstr ""
+
+#: admin/superslider-image-ui.php:183
+msgid "Text editor content"
+msgstr ""
+
+#: admin/superslider-image-ui.php:186
+msgid "content to appear in new posts. eg: [image ]"
+msgstr ""
+
+#: admin/superslider-image-ui.php:189
+msgid "Extra image class"
+msgstr ""
+
+#: admin/superslider-image-ui.php:192
+msgid "Add an extra class to your image."
+msgstr ""
+
+#: admin/superslider-image-ui.php:195
+msgid "Extra link class"
+msgstr ""
+
+#: admin/superslider-image-ui.php:198
+msgid "Add a class to your link."
+msgstr ""
+
+#: admin/superslider-image-ui.php:211
+msgid "Image Link Options"
+msgstr ""
+
+#: admin/superslider-image-ui.php:217
+msgid "Image link on. Adds a link to the image."
+msgstr ""
+
+#: admin/superslider-image-ui.php:223
+msgid "Image caption on. Adds the caption to a p tag bellow the image."
+msgstr ""
+
+#: admin/superslider-image-ui.php:229
+msgid "Image lightbox on. Adds rel=\"lightbox:post-ID\" to the image link."
+msgstr ""
+
+#: admin/superslider-image-ui.php:234
+msgid "Image frame on. Wraps a div around the image and caption."
+msgstr ""
+
+#: admin/superslider-image-ui.php:244
+msgid "Random Image Options"
+msgstr ""
+
+#: admin/superslider-image-ui.php:249
+msgid ""
+"Load a random image if your post has no image.<br /> (your post still needs "
+"the [image] shortcode, and this random selects from the whole site)"
+msgstr ""
+
+#: admin/superslider-image-ui.php:254
+msgid ""
+"Limit random image to this posts category. (otherwise the random image is "
+"site wide.)"
+msgstr ""
+
+#: admin/superslider-image-ui.php:263
+msgid "Image Display Options"
+msgstr ""
+
+#: admin/superslider-image-ui.php:270
+msgid "Limit to"
+msgstr ""
+
+#: admin/superslider-image-ui.php:273
+msgid "the number of images to be shown. (enter @ to show all images.)"
+msgstr ""
+
+#: admin/superslider-image-ui.php:276
+msgid "Image size."
+msgstr ""
+
+#: admin/superslider-image-ui.php:284
+msgid "which image should be rendered by default."
+msgstr ""
+
+#: admin/superslider-image-ui.php:288
+msgid "Link to."
+msgstr ""
+
+#: admin/superslider-image-ui.php:298
+msgid "which link should be rendered by default."
+msgstr ""
+
+#: admin/superslider-image-ui.php:306
+msgid "Default Image Align."
+msgstr ""
+
+#: admin/superslider-image-ui.php:322
+msgid "which alignment by default."
+msgstr ""
+
+#: admin/superslider-image-ui.php:331
+msgid "Example shortcode to over ride global options: "
+msgstr ""
+
+#: admin/superslider-image-ui.php:333
+msgid "menu_order, name, title, ID, rand, date"
+msgstr ""
+
+#: admin/superslider-image-ui.php:334
+msgid "All available sizes: thumbnail, medium, large, full etc."
+msgstr ""
+
+#: admin/superslider-image-ui.php:335
+msgid "To add a link around the image or not."
+msgstr ""
+
+#: admin/superslider-image-ui.php:336
+msgid "What to link to: attachment_page, thumbnail, medium, large, full, etc."
+msgstr ""
+
+#: admin/superslider-image-ui.php:337
+msgid "To add the caption or not."
+msgstr ""
+
+#: admin/superslider-image-ui.php:338
+msgid "To add rel=\"lightbox:post-number\" to the image link."
+msgstr ""
+
+#: admin/superslider-image-ui.php:339
+msgid "To limit the number of images to be shown, @ is equal to all images."
+msgstr ""
+
+#: admin/superslider-image-ui.php:340
+msgid "over ride global align option: none, left, center, right."
+msgstr ""
+
+#: admin/superslider-image-ui.php:341
+msgid "To wrap the caption and image in a div, or not."
+msgstr ""
+
+#: admin/superslider-image-ui.php:342
+msgid ""
+"Add a comma seperated list of ids or single id number of any other image in "
+"your media library."
+msgstr ""
+
+#: admin/superslider-image-ui.php:348
+msgid ""
+"Note: changes to these options will effect all posts with the [image] "
+"shortcode.<br /> Where you have over riden the global options such as [image "
+"align=\"right\"] will not be changed."
+msgstr ""
+
+#: admin/superslider-image-ui.php:352
+msgid "Remove options. "
+msgstr ""
+
+#: admin/superslider-image-ui.php:353
+msgid ""
+"Select to have the plugin options removed from the data base upon "
+"deactivation."
+msgstr ""
+
+#: admin/superslider-image-ui.php:357
+msgid "Reload Default Options"
+msgstr ""
+
+#: admin/superslider-image-ui.php:358
+msgid "Update options"
+msgstr ""
+
+#: superslider-image.php:121
+msgid "SuperSlider Image"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (SuperSlider-Image 1.6)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: superslider-image.php:121
+msgid "SuperSlider-Image"
+msgstr ""
+
+#: superslider-image.php:134
+msgid "Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://superslider.daivmowbray.com/superslider/superslider-image/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Take control your photos and image display. Shortcode image installer, "
+"provides a global control over post images, an easy way to change image "
+"properties globally at any time, can also add a randomly selected image to "
+"any post without an image attached."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Daiv Mowbray"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.daivmowbray.com"
+msgstr ""

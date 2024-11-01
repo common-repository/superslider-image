@@ -1,0 +1,2 @@
+edButtons[edButtons.length] = new edButton( 'ss-image', 'ss-image', '[image order="ASC/DSC" orderby="menu_order" align="left/center/right" size="thumbnail/medium/large" image_link="on" link_type="large" caption="on" lightbox="on" limit="@" image_frame="on" random="on" random_cat="on" image_class="yourclass" link_class="yourlinkclass" image_id="100,101,102"]', '', '' );
+				
